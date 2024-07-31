@@ -20,7 +20,7 @@
 
 //! 3-misol \\\
 
-// let arr = ['azizbek', true, 22, 'salom', "ko'rishguncha"]
+// let arr = ['salom','azizbek', true, 22, "ko'rishguncha"]
 
 // let res = arr.forEach(function(arr){
 //     if (typeof arr == 'string') {
